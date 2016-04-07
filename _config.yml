@@ -1,7 +1,7 @@
 name: 'DiscoMcDisco Presents!'
 favicon: null
-layout_spectrum: 0.14474601368419826
-typography_spectrum: 0.8972287208307534
+layout_spectrum: 1
+typography_spectrum: 0.32636
 title: 'All Things Disco...Speaks, Eats, Sleeps, Plays'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.8586640432476997
-  lightness: 0.847627995768562
-  saturation: 0.9281901041977108
+    - '#000000'
+    - '#fff9ee'
+    - '#63240f'
+    - '#dcb35f'
+    - '#957a33'
+  brandStrength: 0.625
+  lightness: 0.625
+  saturation: 0.8125
   rhythmicContrast: 0.26234373287297785
 purpose: []
