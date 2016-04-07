@@ -1,0 +1,28 @@
+name: 'DiscoMcDisco Presents!'
+favicon: null
+layout_spectrum: 0.14474601368419826
+typography_spectrum: 0.8972287208307534
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8586640432476997
+  lightness: 0.847627995768562
+  saturation: 0.9281901041977108
+  rhythmicContrast: 0.26234373287297785
+purpose: []
