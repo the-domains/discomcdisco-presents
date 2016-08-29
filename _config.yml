@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.3234043
-  brandStrength: 1
-  lightness: 0.4191489
+  saturation: 1
+  brandStrength: 0.7914894
+  lightness: 0.6702127
   brandColors:
     - '#000000'
     - '#fff9ee'
     - '#63240f'
     - '#dcb35f'
     - '#957a33'
-  rhythmicContrast: 0.4872341
+  rhythmicContrast: 0.8489361
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
+name: DiscoMcDisco Presents!
 favicon: null
-name: 'DiscoMcDisco Presents!'
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5297872
-layout_spectrum: 0.9212766
+typography_spectrum: 0.819149
+layout_spectrum: 0.5829787
